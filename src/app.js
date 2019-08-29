@@ -1,5 +1,6 @@
-let a = 123;
-let test = (value) => {
-  return value * 2;
-};
-test(a);
+// let a = 123;
+// let test = (value) => {
+//   return value * 2;
+// };
+// test(a);
+console.log('111');
